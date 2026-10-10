@@ -35,5 +35,5 @@
 - NOT USED
 - YOUR CODE VIEW
 
-#NOTE
+# NOTE
 Please note that some parts may be translated inaccurately because I used Google Translate.
